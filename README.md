@@ -1,4 +1,4 @@
-# smart-tent-5499
+# Imagine-Vintage (DSW clone)
 Hello Everyone, This repo is for our group project.
 Our project is all about the clone of DSW website.
 This is the link of original website - https://www.dsw.com/
